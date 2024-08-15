@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior at Haverford College working with the Libraries' Digital Scholarship team!
+I'm a senior at Haverford College working with the Libraries' Digital Scholarship team!
 
 Pronouns: she/her
 
