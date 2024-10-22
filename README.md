@@ -2,6 +2,8 @@
 
 I'm a senior at Haverford College working with the Libraries' Digital Scholarship team!
 
+On the DS team, I mentor other student workers and my main project is [Ticha](ticha.haverford.edu).
+
 Pronouns: she/her
 
 <!--
