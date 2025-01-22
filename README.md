@@ -2,7 +2,7 @@
 
 I'm a senior at Haverford College working with the Libraries' Digital Scholarship team!
 
-On the DS team, I mentor other student workers and my main project is [Ticha](ticha.haverford.edu).
+On the DS team, I mentor other student workers and my main project is [Ticha](https://ticha.haverford.edu/en/)).
 
 Pronouns: she/her
 
